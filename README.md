@@ -18,9 +18,9 @@ https://manga.bilibili.com/mc28386/526774
 
 2.找到Cookie中的SESSDATA，复制其内容。
 
-【主站与漫画站SESSDATA一致，若漫画站无法找到，请于主站寻找】 
-【退出后重新登录SESSDATA会变动，请按上述说明更新】 
-【网络不稳定时，请单话下载防止坏页】   
+【主站与漫画站SESSDATA一致，若漫画站无法找到，请于主站寻找】  
+【退出后重新登录SESSDATA会变动，请按上述说明更新】  
+【网络不稳定时，请单话下载防止坏页】  
 <br/><br/>
 如图所示![image.png](https://i.loli.net/2020/10/26/RBhmXZdl9jJC7pw.png)
 
